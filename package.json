@@ -1,0 +1,22 @@
+{
+  "name": "selenium_scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wcarpenter96/selenium_scraper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wcarpenter96/selenium_scraper/issues"
+  },
+  "homepage": "https://github.com/Wcarpenter96/selenium_scraper#readme",
+  "dependencies": {
+    "selenium-webdriver": "^4.0.0-beta.4"
+  }
+}
